@@ -1,4 +1,4 @@
-<html dir="ltr" lang="ja">  <head>  <title>おおたの研究所</title>  </head>  <body> 
+<html dir="ltr" lang="ja">  <head>  <title>おおたのWEb</title>  </head>  <body> 
     <h1>htmlでなんか色々作ってるンゴ</h1><br>
     
 
@@ -17,5 +17,13 @@
     <br>
     <font size="51" face="serif" color="yellow">ツムツムの高倍率記録</font>
     <hr color="blue">
+    <br>
+    <br>
+    <br>
+    <br>
+    <hr color="blue">
+
+<hr color="blue" size="15">
+    
     
 </body>  </html>
