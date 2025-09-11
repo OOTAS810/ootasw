@@ -1,4 +1,6 @@
-<html dir="ltr" lang="ja">  <head>  <title>おおたのWEB</title> 
+<html dir="ltr" lang="ja">  <head> 
+    <meta name="ootasweb810">
+    <title>おおたのWEB</title> 
 <style type="TEXT/CSS">
 
     nav {
