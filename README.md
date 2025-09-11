@@ -1,4 +1,12 @@
-<html dir="ltr" lang="ja">  <head>  <title>おおたのWEb</title>  </head>  <body> 
+<html dir="ltr" lang="ja">  <head>  <title>おおたのWEB</title>  </head>  <body> 
+    <nav>
+<a href="">ホーム</a>
+<a href="">２</a>
+<a href="">３</a>
+        
+    </nav>
+    
+    
     <h1>htmlでなんか色々作ってるンゴ</h1><br>
     
 
