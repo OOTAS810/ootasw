@@ -21,7 +21,20 @@ a {
   margin-right: 35px;
 }
 </style>
-
+<header>
+    <h1>
+      <a href="https://ootas810.github.io/ootasweb/">
+        <img src="file:///C:/Users/minna/Downloads/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89" alt="ootasweb">
+      </a>
+    </h1>
+    <nav>
+      <ul>
+        <li>メニュー１</li>
+        <li>メニュー2</li>
+        <li>メニュー3</li>
+      </ul>
+    </nav>
+  </header>
 </head>  <body> 
     <nav>
         <ul>
