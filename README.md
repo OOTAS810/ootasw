@@ -31,6 +31,13 @@ a {
     </h1>
   </header>
 </head>  <body> 
+
+<script>
+var name = prompt("名前を入力してください");
+      document.write(name);
+    
+</script>
+    
     <nav>
         <ul>
 <li><a href="">ホーム</a></li>
