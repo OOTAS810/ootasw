@@ -30,31 +30,12 @@ a {
       </a>
     </h1>
   </header>
-</head>  <body> 
-
-<button type="button">コード</button>
-
-<script>
-const btn = document.querySelector("button");
-
-btn.addEventListener("click", () => {
-  let result = prompt(
-    "コードを所有している場合はこ↑こ↓に入力してください\n（英数字のみ）",
-    "例)810114514"
-  );
-  if (pw == “○○○"){
-location.href = "kakure.html";
-}else{
-alert("パスワードが違います！");
-}
-});
-</script>
-    
+</head>  <body>     
     <nav>
         <ul>
 <li><a href="">ホーム</a></li>
 <li><a href="">２</a></li>
-<li><a href="">３</a></li>
+<li><a href="https://ootas810.github.io/ootasweb22222/">コードを入力</a></li>
         </ul>
     </nav>
     
