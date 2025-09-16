@@ -32,17 +32,22 @@ a {
   </header>
 </head>  <body> 
 
-<button onclick="showPrompt()">名前を入力してください</button>
+<button type="button">コード</button>
 
 <script>
-function showPrompt() {
-  let userName = prompt("あなたの名前を入力してください:");
-  if (userName != null && userName != "") {
-    alert("こんにちは、" + userName + "さん！");
-  } else {
-    alert("名前が入力されませんでした。");
-  }
+const btn = document.querySelector("button");
+
+btn.addEventListener("click", () => {
+  let result = prompt(
+    "コードを所有している場合はこ↑こ↓に入力してください\n（英数字のみ）",
+    "例)810114514"
+  );
+  if (pw == “○○○"){
+location.href = "kakure.html";
+}else{
+alert("パスワードが違います！");
 }
+});
 </script>
     
     <nav>
