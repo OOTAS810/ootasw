@@ -32,10 +32,17 @@ a {
   </header>
 </head>  <body> 
 
+<button onclick="showPrompt()">名前を入力してください</button>
+
 <script>
-var name = prompt("名前を入力してください");
-      document.write(name);
-    
+function showPrompt() {
+  let userName = prompt("あなたの名前を入力してください:");
+  if (userName != null && userName != "") {
+    alert("こんにちは、" + userName + "さん！");
+  } else {
+    alert("名前が入力されませんでした。");
+  }
+}
 </script>
     
     <nav>
