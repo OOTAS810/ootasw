@@ -21,7 +21,7 @@
 <tr>
 <td bgcolor="#114514" align="center" width="140"><font color="#ffffff"></font><a href="https://ootas810.github.io/ootasw/"><font color="#ffffff">ホーム</font></a></td>
 <td bgcolor="#114514" align="center" width="140"><font color="#ffffff"></font><a href=""><font color="#ffffff">htmlの仕様を使ってナニかする</font></a></td>
-<td bgcolor="#114514" align="center" width="140"><font color="#ffffff"></font><a href="22222"><font color="#ffffff">コードを入力</font></a></td>
+<td bgcolor="#114514" align="center" width="140"><font color="#ffffff"></font><a href="https://ootas810.github.io/ootasw/22222"><font color="#ffffff">コードを入力</font></a></td>
 <td bgcolor="#114514" align="center" width="140"><font color="#ffffff"></font><a href=""><font color="#ffffff">ほっけっきょー</font></a></td>
 </tr>
 <tr><td colspan="8" bgcolor="#164545" height="2"> </td></tr>
