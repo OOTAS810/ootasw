@@ -13,35 +13,8 @@
    <html dir="ltr" lang="ja">  <head> 
     <meta name="ootasweb810">
     <title>おおたのWEB</title> 
-<style type="TEXT/CSS">
 
-    nav {
-  width: 100%;
-  height: 70px;
-  background-color: dimgray;
-  padding-top: 5px;
-  box-sizing: border-box;
-}
-ul {
-  display: flex;
-}
-li {
-  list-style: none;
-}
-a {
-  display: block;
-  text-decoration: none;
-  color: white;
-  margin-right: 35px;
-}
-</style>
-<header>
-    <h1>
-      <a href="https://ootas810.github.io/ootasweb/">
-        <img src="file:///C:/Users/minna/Desktop/a.png" alt="ootasweb">
-      </a>
-    </h1>
-  </header>
+
 </head>  <body>     
      <table width="700" border="0" cellspacing="1" cellpadding="2" align="center">
 <tbody><tr><td colspan="8" bgcolor="#164545" height="2"> </td></tr>
@@ -51,7 +24,7 @@ a {
 <td bgcolor="#114514" align="center" width="140"><font color="#ffffff"></font><a href="22222"><font color="#ffffff">コードを入力</font></a></td>
 <td bgcolor="#114514" align="center" width="140"><font color="#ffffff"></font><a href=""><font color="#ffffff">ほっけっきょー</font></a></td>
 </tr>
-<tr><td colspan="8" bgcolor="#669999" height="2"> </td></tr>
+<tr><td colspan="8" bgcolor="#164545" height="2"> </td></tr>
 <tr><td colspan="8" height="15"> </td></tr>
 </tbody></table>
     
