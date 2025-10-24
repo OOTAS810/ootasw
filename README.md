@@ -43,13 +43,18 @@ a {
     </h1>
   </header>
 </head>  <body>     
-    <nav>
-        <ul>
-<li><a href="">ホーム</a></li>
-<li><a href="">２</a></li>
-<li><a href="https://ootas810.github.io/ootasweb22222/">コードを入力</a></li>
-        </ul>
-    </nav>
+     <table width="700" border="0" cellspacing="1" cellpadding="2" align="center">
+<tbody><tr><td colspan="8" bgcolor="#164545" height="2"> </td></tr>
+<tr>
+<td bgcolor="#114514" align="center" width="140"><font color="#ffffff"></font><a href="https://ootas810.github.io/ootasw/"><font color="#ffffff">ホーム</font></a></td>
+<td bgcolor="#114514" align="center" width="140"><font color="#ffffff"></font><a href=""><font color="#ffffff">htmlの仕様を使ってナニかする</font></a></td>
+<td bgcolor="#114514" align="center" width="140"><font color="#ffffff"></font><a href="22222"><font color="#ffffff">コードを入力</font></a></td>
+<td bgcolor="#114514" align="center" width="140"><font color="#ffffff"></font><a href=""><font color="#ffffff">ほっけっきょー</font></a></td>
+</tr>
+<tr><td colspan="8" bgcolor="#669999" height="2"> </td></tr>
+<tr><td colspan="8" height="15"> </td></tr>
+</tbody></table>
+    
     
     
     <h1>htmlでなんか色々作ってるンゴ</h1><br>
@@ -66,18 +71,7 @@ a {
     
     <iframe width="560" height="315" src="https://www.youtube.com/embed/niKAylKNIEI?si=TQg1XtOAeYLILxGs&controls=0&loop=1&end=150" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
-   <table width="700" border="0" cellspacing="1" cellpadding="2" align="center">
-<tbody><tr><td colspan="8" bgcolor="#164545" height="2"> </td></tr>
-<tr>
-<td bgcolor="#114514" align="center" width="140"><font color="#ffffff"></font><a href="https://ootas810.github.io/ootasw/"><font color="#ffffff">ホーム</font></a></td>
-<td bgcolor="#114514" align="center" width="140"><font color="#ffffff"></font><a href=""><font color="#ffffff">htmlの仕様を使ってナニかする</font></a></td>
-<td bgcolor="#114514" align="center" width="140"><font color="#ffffff"></font><a href="22222"><font color="#ffffff">コードを入力</font></a></td>
-<td bgcolor="#114514" align="center" width="140"><font color="#ffffff"></font><a href=""><font color="#ffffff">ほっけっきょー</font></a></td>
-</tr>
-<tr><td colspan="8" bgcolor="#669999" height="2"> </td></tr>
-<tr><td colspan="8" height="15"> </td></tr>
-</tbody></table>
-    
+  
     
 </body>  </html>
 
